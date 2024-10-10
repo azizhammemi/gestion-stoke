@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\GMAO-IIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|c:\\c#\\gmao-iit\\usercontrol\\usercontrol4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\usercontrol4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|c:\\c#\\gmao-iit\\usercontrol\\usercontrol4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\usercontrol4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\usercontrol\\usercontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\usercontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\usercontrol\\usercontrol3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\usercontrol3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\usercontrol\\usercontrol2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\usercontrol2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\usercontrol\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|c:\\c#\\gmao-iit\\usercontrol\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\usercontrol\\usercontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\usercontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\usercontrol\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\usercontrol\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\usercontrol\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\usercontrol\\usercontrol3.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\usercontrol3.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\gmao-iit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:gmao-iit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\usercontrol\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|C:\\C#\\GMAO-IIT\\usercontrol\\usercontrol4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D30D85-9E34-43F2-B436-F74F78766605}|GMAO-IIT.csproj|solutionrelative:usercontrol\\usercontrol4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl4.cs",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl4.cs",
+              "RelativeDocumentMoniker": "usercontrol\\UserControl4.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl4.cs",
+              "RelativeToolTip": "usercontrol\\UserControl4.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:58:46.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControl2.Designer.cs",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl2.Designer.cs",
+              "RelativeDocumentMoniker": "usercontrol\\UserControl2.Designer.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl2.Designer.cs",
+              "RelativeToolTip": "usercontrol\\UserControl2.Designer.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAowKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:43:29.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl3.cs",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl3.cs",
+              "RelativeDocumentMoniker": "usercontrol\\UserControl3.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl3.cs",
+              "RelativeToolTip": "usercontrol\\UserControl3.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAqwAcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:10:42.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControl3.cs [Conception]",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl3.cs",
+              "RelativeDocumentMoniker": "usercontrol\\UserControl3.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl3.cs [Conception]",
+              "RelativeToolTip": "usercontrol\\UserControl3.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T23:03:14.063Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControl2.cs",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl2.cs",
+              "RelativeDocumentMoniker": "usercontrol\\UserControl2.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl2.cs",
+              "RelativeToolTip": "usercontrol\\UserControl2.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:46:53.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:46:49.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl4.Designer.cs",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl4.Designer.cs",
+              "RelativeDocumentMoniker": "usercontrol\\UserControl4.Designer.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl4.Designer.cs",
+              "RelativeToolTip": "usercontrol\\UserControl4.Designer.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAqwIcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:52:50.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControl1.Designer.cs",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl1.Designer.cs",
+              "RelativeDocumentMoniker": "usercontrol\\UserControl1.Designer.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl1.Designer.cs",
+              "RelativeToolTip": "usercontrol\\UserControl1.Designer.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAowKYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:03:34.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControl3.Designer.cs",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl3.Designer.cs",
+              "RelativeDocumentMoniker": "usercontrol\\UserControl3.Designer.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl3.Designer.cs",
+              "RelativeToolTip": "usercontrol\\UserControl3.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T23:03:29.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserControl2.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl2.cs",
+              "RelativeDocumentMoniker": "usercontrol\\UserControl2.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl2.cs [Design]",
+              "RelativeToolTip": "usercontrol\\UserControl2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T23:02:54.341Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserControl1.cs [Conception]",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl1.cs",
+              "RelativeDocumentMoniker": "usercontrol\\UserControl1.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl1.cs [Conception]",
+              "RelativeToolTip": "usercontrol\\UserControl1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:15:08.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl1.cs",
+              "RelativeDocumentMoniker": "usercontrol\\UserControl1.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl1.cs",
+              "RelativeToolTip": "usercontrol\\UserControl1.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAQwIcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T23:03:59.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\Form1.cs [Conception]",
+              "RelativeToolTip": "Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T23:30:50.051Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GMAO-IIT.csproj",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\GMAO-IIT.csproj",
+              "RelativeDocumentMoniker": "GMAO-IIT.csproj",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\GMAO-IIT.csproj",
+              "RelativeToolTip": "GMAO-IIT.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T22:52:52.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserControl3.resx",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl3.resx",
+              "RelativeDocumentMoniker": "usercontrol\\UserControl3.resx",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl3.resx",
+              "RelativeToolTip": "usercontrol\\UserControl3.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-03T12:11:38.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:33:20.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-02T22:49:47.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserControl4.cs [Conception]",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl4.cs",
+              "RelativeDocumentMoniker": "usercontrol\\UserControl4.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\UserControl4.cs [Conception]",
+              "RelativeToolTip": "usercontrol\\UserControl4.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T23:03:25.404Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Navigation.cs",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\usercontrol\\Navigation.cs",
+              "RelativeDocumentMoniker": "usercontrol\\Navigation.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\usercontrol\\Navigation.cs",
+              "RelativeToolTip": "usercontrol\\Navigation.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T23:06:31.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\GMAO-IIT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C#\\GMAO-IIT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T23:22:18.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
